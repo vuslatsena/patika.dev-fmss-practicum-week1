@@ -1,8 +1,8 @@
-const readline = require('readline');
-const { getUsers, getPosts } = require('./your-module');
+import { createInterface } from 'readline';
+import { getUsers, getPosts } from './your-module';
 
 // Create a readline interface object
-const readlineInterface = readline.createInterface({
+const readlineInterface = createInterface({
   input: process.stdin,
   output: process.stdout
 });
