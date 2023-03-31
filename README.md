@@ -1,4 +1,4 @@
-# 1. Ödev
+# Week 1 Homework 1
 Patika.dev &amp; FMSS Bilişim Front-end Practicum Week1 - Homework 1
 
 ## Installation
